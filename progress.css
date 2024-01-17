@@ -1,0 +1,94 @@
+.nav-item{
+    color: white;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  }
+  
+  .navbar{
+    background: rgb(64, 68, 100);
+    text-align: center;
+  }
+
+  #bg{
+    background-color: rgb(138, 162, 169);
+    font-size: 22px;
+}
+
+  .dropdown-menu {
+    width: 20px;
+    background-color: brown;
+  
+  }
+  
+  .dropdown {
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+p{
+    color: black;
+  }
+  
+.progintro1{
+    margin-left: 50px;
+    margin-right:50px;
+}
+
+#name{
+    font-style: oblique;
+}
+
+.slideimgprogress{
+    width: 47.5%;
+    height: 35%;
+    text-align: center;
+    margin-left: 28%;
+    }
+
+#progresstitle{
+    font-size: 40px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 20%;
+    border: 2px solid grey;
+    width: 800px;
+    z-index: 200; /* brings to front/ moves to back */
+    background-color: grey;
+    opacity: 60%;
+    margin-left: 25%;
+}
+
+.handssep{
+    width: 20%;
+    height: 15%;
+    margin-left: 45px;
+    
+}
+
+.progcontent{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#progcontent2{
+    margin-left: 700px;
+    margin-right: 50px;
+}
+
+#progcontent3{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#outro{
+    margin-left: 50px;
+}
+
+.handstog{
+    width: 20%;
+    height: 15%;
+    margin-right: 150px;
+    
+}
